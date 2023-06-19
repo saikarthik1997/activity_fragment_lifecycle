@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LifecycleDemoApp</string>
+    <string name="add_button_for_incrementing_count">add button for incrementing count</string>
+    <string name="for_decrementing_count">for decrementing count</string>
 </resources>

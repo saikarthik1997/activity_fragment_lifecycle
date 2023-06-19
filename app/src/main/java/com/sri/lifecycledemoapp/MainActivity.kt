@@ -77,13 +77,13 @@ class MainActivity : AppCompatActivity() {
 
 
 
-    fun incrementCounter(){
+    private fun incrementCounter(){
         counter++
         counterTextView.text=counter.toString()
     }
 
 
-    fun decrementCounter(){
+    private fun decrementCounter(){
         counter--
         counterTextView.text=counter.toString()
     }
