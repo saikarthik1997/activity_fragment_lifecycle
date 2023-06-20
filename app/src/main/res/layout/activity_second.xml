@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".fragment_demo.SecondActivity">
 
-    <fragment
+    <androidx.fragment.app.FragmentContainerView
         android:id="@+id/myFragment"
         android:name="com.sri.lifecycledemoapp.fragment_demo.DemoFragment"
         android:layout_width="match_parent"
